@@ -1,0 +1,13 @@
+# compiled classes (javac LabXX.java)
+*.class
+
+# files created at runtime by Lab 06
+students.txt
+student.ser
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+out/
+bin/
