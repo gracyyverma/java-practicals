@@ -23,8 +23,8 @@
     <td width="420">Gracy Verma</td>
   </tr>
   <tr>
-    <th align="left" width="140">130410425005</th>
-    <td width="420"><!-- write the roll number here --></td>
+    <th align="left" width="140">Roll No.</th>
+    <td width="420">130410425005</td>
   </tr>
 </table>
 
